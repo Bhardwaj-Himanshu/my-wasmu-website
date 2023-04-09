@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwasm_edge=self.webpackChunkwasm_edge||[]).push([[967],{2772:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/my-wasmu-website/blog/tags/docusaurus","allTagsPath":"/my-wasmu-website/blog/tags","count":4}')}}]);
