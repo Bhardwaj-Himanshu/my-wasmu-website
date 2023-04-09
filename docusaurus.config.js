@@ -21,9 +21,9 @@ const config = {
   organizationName: 'Bhardwaj-Himanshu', // Usually your GitHub org/user name.
   projectName: 'my-wasmu-website', // Usually your repo name.
   deploymentBranch:'gh-pages',
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash:false,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
