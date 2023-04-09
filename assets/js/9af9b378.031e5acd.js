@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwasm_edge=self.webpackChunkwasm_edge||[]).push([[692],{1351:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/my-wasmu-wesbite/blog/tags/hola","allTagsPath":"/my-wasmu-wesbite/blog/tags","count":1}')}}]);
